@@ -1,0 +1,6 @@
+c:\users\rodrigo\documents\visual studio 2015\Projects\Bombas\Bombas\bin\Debug\Bombas.exe.config
+c:\users\rodrigo\documents\visual studio 2015\Projects\Bombas\Bombas\bin\Debug\Bombas.exe
+c:\users\rodrigo\documents\visual studio 2015\Projects\Bombas\Bombas\bin\Debug\Bombas.pdb
+c:\users\rodrigo\documents\visual studio 2015\Projects\Bombas\Bombas\obj\Debug\Bombas.csprojResolveAssemblyReference.cache
+c:\users\rodrigo\documents\visual studio 2015\Projects\Bombas\Bombas\obj\Debug\Bombas.exe
+c:\users\rodrigo\documents\visual studio 2015\Projects\Bombas\Bombas\obj\Debug\Bombas.pdb
